@@ -11,7 +11,7 @@ This project explores ride trends for Bergen City Bike. It combines historical r
 | `Bergen-City-Bike-Forecast.ipynb` | Jupyter notebook with full forecasting workflow using Prophet and Holt-Winters. Includes data cleaning, feature engineering, model evaluation, and visualizations. Designed for reproducibility in Google Colab. |
 | `Bergen-City-Bike-Pres.pdf` | Slide deck summarizing key findings, forecasting insights, and recommendations. |
 | `CS669_TermProjeDatabase_Ahart_Alana.sql` | SQL script for creating a normalized database schema to store ride data. Includes table definitions, relationships, and indexing strategy for efficient querying. |
-| `data` | Bergen City Bike ride data from 2022-2025. The data is pulled from the repository for analyzing.|
+| `data` | Bergen City Bike ride data from 2022-2024. The data is pulled from the repository for analyzing.|
 ---
 
 ## 🚀 Run This Notebook in Google Colab
