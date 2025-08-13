@@ -4,5 +4,5 @@ This project explores ride trends for Bergen City Bike. It combines historical r
 
 Click the badge below to launch the notebook directly in Google Colab:
 
-[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-City-Bike-Forecast(1).ipynb)](https://github.com/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-City-Bike-Forecast(2).ipynb)
+[![Open In Colab][((https://github.com/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-City-Bike-Forecast(2).ipynb)]
 
