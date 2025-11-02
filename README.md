@@ -25,4 +25,4 @@ Click the badge below to launch the notebook directly in Google Colab:
 
 ## 📊 View the Presentation
 
-[📎 BergenCityBikePresentation.pdf](https://github.com/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-City-Bike-Pres.pdf)
+[📎 BergenCityBikePresentation.pdf](https://github.com/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-City-Bike-Pres-2.pdf)
